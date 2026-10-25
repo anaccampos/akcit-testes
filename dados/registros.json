@@ -1,0 +1,32 @@
+[
+  {
+    "apacId": "F001",
+    "competencia": "2020-01",
+    "uf": "SP",
+    "valorAprovadoCentavos": 10000
+  },
+  {
+    "apacId": "F002",
+    "competencia": "2020-01",
+    "uf": "GO",
+    "valorAprovadoCentavos": 20000
+  },
+  {
+    "apacId": "F003",
+    "competencia": "2022-06",
+    "uf": "SP",
+    "valorAprovadoCentavos": 30000
+  },
+  {
+    "apacId": "F004",
+    "competencia": "2025-12",
+    "uf": "SP",
+    "valorAprovadoCentavos": 40000
+  },
+  {
+    "apacId": "F005",
+    "competencia": "2025-12",
+    "uf": "GO",
+    "valorAprovadoCentavos": 50000
+  }
+]
